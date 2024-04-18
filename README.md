@@ -1,4 +1,4 @@
-﻿# Anime Ball Dash
+# 🎮 Anime Ball Dash 🏀
 
 ## Overview
 
@@ -13,7 +13,7 @@ This is a simple 2D shooting game built with HTML, CSS, and JavaScript. Players 
 - Responsive design for various screen sizes.
 - Enhanced visual styles and animations.
 
-## How to Play
+## How to Play 🎮
 
 1. Select the difficulty level from the dropdown.
 2. Click the "Play" button to start the game.
@@ -22,12 +22,12 @@ This is a simple 2D shooting game built with HTML, CSS, and JavaScript. Players 
 5. Press the spacebar to use a huge weapon (requires a minimum score).
 6. Survive as long as possible, earn scores, and compete for the high score!
 
-## Additional Features and Styling
+## Additional Features and Styling 🌟
 
 - Background pattern and gradient for an immersive feel.
 - Subtle glow effect on the score board for visual appeal.
 - Animated appearance for the form and pulsating animation on the score board.
 
-## Enjoy the Game!
+## Enjoy the Game! 🎉
 
 Feel free to customize and improve the game further. Have fun playing!
